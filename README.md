@@ -28,14 +28,16 @@
 | 文件 | 说明 |
 | --- | --- |
 | `zhenfa1 2026.11.20.epro2` | 立创EDA专业版工程文件（含原理图与 PCB） |
+| `BOM_Board1_PCB1_2026-11-20.xlsx` | 物料清单（BOM） |
 | `屏幕截图 2026-11-20 105155.png` | 原理图截图 |
 | `39ca84545b6f9cd47d1767011079e38b.png` | PCB 3D 预览图 |
 
 ## 如何打开
 
 1. 安装 [立创EDA专业版](https://pro.lceda.cn/)；
-2. 打开 `zhenfa1 2026.11.20.epro2` 即可查看原理图与 PCB 布局。
+2. 打开 `zhenfa1 2026.11.20.epro2` 即可查看原理图与 PCB 布局；
+3. BOM 用 Excel / WPS 打开 `BOM_Board1_PCB1_2026-11-20.xlsx`。
 
 ## 备注
 
-本仓库仅存放设计源文件与预览图，不含 Gerber 生产文件与 BOM。
+本仓库存放设计源文件、BOM 与预览图，不含 Gerber 生产文件。
