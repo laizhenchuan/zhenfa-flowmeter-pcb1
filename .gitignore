@@ -1,0 +1,8 @@
+# 立创EDA 自动备份 / 临时文件
+*.epro2.bak
+*.epro2.autosave
+backup/
+*.tmp
+# Windows
+Thumbs.db
+desktop.ini
